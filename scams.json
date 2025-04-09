@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Scam #1",
+    "description": "Short description for scam #1.",
+    "details": "Full explanation for scam #1. How it works, how to avoid it, and what to do if you've been affected."
+  },
+  {
+    "title": "Scam #2",
+    "description": "Short description for scam #2.",
+    "details": "Full details on scam #2 go here."
+  }
+  // Add additional scam objects as needed
+]
