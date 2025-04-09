@@ -1,12 +1,42 @@
 [
   {
-    "title": "Scam #1",
-    "description": "Short description for scam #1.",
-    "details": "Full explanation for scam #1. How it works, how to avoid it, and what to do if you've been affected."
+    "title": "Phishing Scam",
+    "description": "Deceptive emails that trick you into handing over sensitive information.",
+    "details": "Scammers send emails that appear to be from reputable organizations to steal personal data like passwords and credit card numbers. Never click on suspicious links or provide information without verifying the source."
   },
   {
-    "title": "Scam #2",
-    "description": "Short description for scam #2.",
-    "details": "Full details on scam #2 go here."
+    "title": "Tech Support Scam",
+    "description": "Fake tech support calls or pop-ups that claim your computer has issues.",
+    "details": "Fraudsters impersonate tech support representatives and convince you to grant remote access to your computer. This can lead to malware installation or data theft. Always contact official customer support for help."
+  },
+  {
+    "title": "Lottery Scam",
+    "description": "Fraudulent notifications claiming you won a lottery you never entered.",
+    "details": "You receive a message stating you've won a large sum, but they require an upfront fee to release your winnings. Legitimate lotteries never ask for payment to claim a prize."
+  },
+  {
+    "title": "Romance Scam",
+    "description": "Scammers create fake profiles online to build fake relationships and extract money.",
+    "details": "Perpetrators use dating sites or social media to develop emotionally compelling relationships, only to later fabricate emergencies or reasons for financial help. Always be cautious when asked for money from someone you haven't met in person."
+  },
+  {
+    "title": "Investment Scam",
+    "description": "Fraudulent schemes promising high returns with low risk.",
+    "details": "Scammers lure victims with promises of unusually high returns through investments. They often use fake testimonials and high-pressure tactics. Do thorough research and consult financial experts before investing."
+  },
+  {
+    "title": "Job Offer Scam",
+    "description": "Fake employment opportunities that require upfront payments or sensitive data.",
+    "details": "Fraudsters post attractive job ads and then ask for personal information or fees for processing applications. Legitimate employers never charge fees during hiring processes, so verify the offer independently."
+  },
+  {
+    "title": "Online Shopping Scam",
+    "description": "Fraudulent websites mimicking trusted retailers to steal your money and information.",
+    "details": "Scammers create fake online stores or deceptive listings on legitimate platforms. Victims may receive counterfeit goods or nothing at all, while their payment data can be compromised. Confirm the authenticity of a site before making any purchases."
+  },
+  {
+    "title": "Charity Scam",
+    "description": "Fake charity solicitations exploiting your generosity, especially during crises.",
+    "details": "Scammers set up fraudulent charities to collect donations that never reach genuine causes. Always research a charity and donate through verified channels, particularly in the wake of a disaster or crisis."
   }
 ]
