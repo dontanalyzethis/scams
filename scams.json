@@ -2,41 +2,41 @@
   {
     "title": "Digital Decoy",
     "description": "A convincing phishing email disguised as a security alert from your bank or favorite service.",
-    "details": "Cybercriminals send realistic-looking emails warning you of account issues, urging you to click a link and 'verify' your credentials. The fake site captures your info instantly. To avoid getting duped: (1) Never click on links from unsolicited emails; (2) Check the sender’s address carefully for subtle typos; (3) Access your account directly through the official app or site."
+    "details": "1. Look for unsolicited emails prompting urgent action; 2. Examine sender addresses for subtle typos or inconsistencies; 3. Verify account issues by accessing your account directly via official channels."
   },
   {
     "title": "Phantom Tech Rescue",
     "description": "Fake support agents posing as Microsoft or Apple reps to 'fix' a made-up virus.",
-    "details": "Scammers cold-call or pop up fake warnings in your browser, claiming your device is infected. They ask you to install remote access tools like AnyDesk or TeamViewer to ‘help’—but instead they install malware. Protect yourself by: (1) Never granting remote access to someone who contacts you first; (2) Closing suspicious popups and scanning with trusted antivirus; (3) Contacting tech support through official company websites only."
+    "details": "1. Identify unsolicited tech support warnings or cold calls; 2. Notice unexpected requests for remote access; 3. Confirm warnings by checking official company contact details."
   },
   {
     "title": "Fortune Mirage",
     "description": "A too-good-to-be-true email claiming you've won a sweepstakes you never entered.",
-    "details": "You’re told you’ve won big—but there’s a catch: taxes, processing fees, or delivery costs must be paid upfront. Legitimate contests never charge winners. Stay safe by: (1) Ignoring win notifications for contests you didn’t enter; (2) Refusing to pay to claim prizes; (3) Verifying any prize claims with the actual company before engaging."
+    "details": "1. Check if the win notification is unexpected or unsolicited; 2. Notice if there's a demand for upfront fees to claim the prize; 3. Verify prize claims through official contest channels."
   },
   {
     "title": "Heartstrings Heist",
     "description": "A long-play romance con where emotional manipulation leads to financial ruin.",
-    "details": "The scammer builds weeks or months of digital intimacy before inventing an emergency—hospital bills, stranded travel, or visa issues. They ask for wire transfers or crypto. To avoid heartbreak and fraud: (1) Be wary of fast-moving relationships online; (2) Never send money to someone you haven’t met in person; (3) Do a reverse image search on their profile pictures to check for stolen identities."
+    "details": "1. Notice if the relationship escalates unusually fast with emotional appeals; 2. Observe any unexpected requests for money from someone you haven’t met in person; 3. Verify profile image authenticity using reverse image searches."
   },
   {
     "title": "Job Mirage",
     "description": "A phony job offer that leads to identity theft or upfront 'training' fees.",
-    "details": "Fake recruiters promise high-paying remote gigs, but ask for personal data early on—or request payment for background checks or equipment. Stay protected by: (1) Verifying the company’s legitimacy through official sites; (2) Refusing to pay anything upfront for a job; (3) Watching out for vague job descriptions and interview processes that skip video or in-person steps."
+    "details": "1. Confirm company legitimacy via official websites; 2. Look out for job offers demanding upfront fees or payments; 3. Identify vague job descriptions or irregular interview practices."
   },
   {
     "title": "Clone Commerce",
     "description": "Fake online stores selling hot deals that never ship anything.",
-    "details": "The website looks real—logos, reviews, product images—but it's a trap. After paying, your items never arrive and customer service ghosts you. Shop smart by: (1) Checking for HTTPS and verifying domain age; (2) Avoiding deals that seem way too cheap; (3) Looking up the store on scam watch forums or review sites first."
+    "details": "1. Check if the website uses HTTPS and has a verifiable domain history; 2. Observe if deals are suspiciously low-priced compared to market value; 3. Cross-check the store on review sites or scam alert forums."
   },
   {
     "title": "Grandkid Gambit",
     "description": "A high-pressure call from a 'grandchild' in distress, begging for emergency funds.",
-    "details": "Scammers impersonate a loved one—often saying they’re in jail, in an accident, or stranded overseas. They plead for secrecy and money transfers. Protect yourself by: (1) Calling the real family member directly to confirm; (2) Never sending money without verifying the story; (3) Setting up a family password system for emergencies."
+    "details": "1. Notice urgent financial requests coming unexpectedly from a family member; 2. Verify the scenario by directly contacting the actual person involved; 3. Be cautious if the story demands secrecy or rapid action."
   },
   {
     "title": "Crypto Mirage",
     "description": "A fast-talking 'investor' promising massive crypto returns in no time.",
-    "details": "They approach via social media or forums, flaunting fake testimonials and dashboards. Once you send crypto, it disappears—and so do they. Shield yourself by: (1) Avoiding investment offers from strangers; (2) Using only licensed and regulated platforms; (3) Knowing that real investments carry risk—guaranteed returns are a red flag."
+    "details": "1. Check if crypto investment proposals are unsolicited; 2. Notice promises of high or guaranteed returns; 3. Verify the legitimacy of investment platforms using regulated sources."
   }
 ]
