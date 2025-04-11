@@ -1,42 +1,26 @@
 [
   {
-    "title": "Digital Decoy",
-    "description": "A convincing phishing email disguised as a security alert from your bank or favorite service.",
-    "details": "1. Look for unsolicited emails prompting urgent action; 2. Examine sender addresses for subtle typos or inconsistencies; 3. Verify account issues by accessing your account directly via official channels."
+    "category": "romance",
+    "description": "A scammer builds a fake romantic relationship over weeks or months through dating apps or social media, claiming to be overseas for work or military service. Eventually, they create a fabricated emergency — like a medical bill or travel cost — and ask the victim to wire money or send gift cards. The scammer often vanishes after receiving the money, leaving the victim emotionally and financially devastated.",
+    "how to spot it": "Be cautious if someone you’ve never met in person professes love quickly. Watch for stories that prevent in-person meetings and requests for money. Reverse image search their profile pictures to check for duplicates.",
+    "image": "https://cdn-icons-png.flaticon.com/512/1077/1077035.png"
   },
   {
-    "title": "Phantom Tech Rescue",
-    "description": "Fake support agents posing as Microsoft or Apple reps to 'fix' a made-up virus.",
-    "details": "1. Identify unsolicited tech support warnings or cold calls; 2. Notice unexpected requests for remote access; 3. Confirm warnings by checking official company contact details."
+    "category": "phishing",
+    "description": "A spoofed email or text appears to be from a trusted source — like a bank, Amazon, or the IRS — warning of suspicious account activity or missed payments. The message contains a link to a fake website that captures your login credentials or personal information. Some variants include malicious attachments that install spyware or ransomware.",
+    "how to spot it": "Avoid clicking links in unexpected emails or texts. Check for slight misspellings in sender addresses and website URLs. Log in to your account through the official app or site instead of any provided links.",
+    "image": "https://cdn-icons-png.flaticon.com/512/634/634013.png"
   },
   {
-    "title": "Fortune Mirage",
-    "description": "A too-good-to-be-true email claiming you've won a sweepstakes you never entered.",
-    "details": "1. Check if the win notification is unexpected or unsolicited; 2. Notice if there's a demand for upfront fees to claim the prize; 3. Verify prize claims through official contest channels."
+    "category": "job",
+    "description": "Victims are offered remote jobs with high pay and flexible hours, often with no interview. After a fake onboarding, they're asked to purchase equipment or pay for background checks using their own money, with a promise of reimbursement. The scammer disappears once the payment is made.",
+    "how to spot it": "Watch for job offers that skip standard hiring procedures. Be skeptical of any position requiring you to front costs. Research the company thoroughly and verify job postings through official sources.",
+    "image": "https://cdn-icons-png.flaticon.com/512/3063/3063826.png"
   },
   {
-    "title": "Heartstrings Heist",
-    "description": "A long-play romance con where emotional manipulation leads to financial ruin.",
-    "details": "1. Notice if the relationship escalates unusually fast with emotional appeals; 2. Observe any unexpected requests for money from someone you haven’t met in person; 3. Verify profile image authenticity using reverse image searches."
-  },
-  {
-    "title": "Job Mirage",
-    "description": "A phony job offer that leads to identity theft or upfront 'training' fees.",
-    "details": "1. Confirm company legitimacy via official websites; 2. Look out for job offers demanding upfront fees or payments; 3. Identify vague job descriptions or irregular interview practices."
-  },
-  {
-    "title": "Clone Commerce",
-    "description": "Fake online stores selling hot deals that never ship anything.",
-    "details": "1. Check if the website uses HTTPS and has a verifiable domain history; 2. Observe if deals are suspiciously low-priced compared to market value; 3. Cross-check the store on review sites or scam alert forums."
-  },
-  {
-    "title": "Grandkid Gambit",
-    "description": "A high-pressure call from a 'grandchild' in distress, begging for emergency funds.",
-    "details": "1. Notice urgent financial requests coming unexpectedly from a family member; 2. Verify the scenario by directly contacting the actual person involved; 3. Be cautious if the story demands secrecy or rapid action."
-  },
-  {
-    "title": "Crypto Mirage",
-    "description": "A fast-talking 'investor' promising massive crypto returns in no time.",
-    "details": "1. Check if crypto investment proposals are unsolicited; 2. Notice promises of high or guaranteed returns; 3. Verify the legitimacy of investment platforms using regulated sources."
+    "category": "shopping",
+    "description": "Scammers create fake e-commerce sites offering trendy or hard-to-find products at deep discounts. The sites may clone real brands, complete with logos and fake reviews, but orders are never fulfilled. Some victims report receiving unrelated junk items instead of what they ordered.",
+    "how to spot it": "Compare prices — if it’s far below market value, be suspicious. Check if the site lacks real contact info or has broken pages. Look up reviews and domain history before buying.",
+    "image": "https://cdn-icons-png.flaticon.com/512/1170/1170576.png"
   }
 ]
