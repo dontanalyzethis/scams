@@ -1,122 +1,122 @@
 [
   {
     "company/agency": "The North Face",
-    "description": "Alerts are coming in about fake websites mimicking The North Face that are running bogus Black Friday deals with URLs such as northfaceblackfriday.shop. Consumers who enter their credit card information on these sites are unknowingly sending it to scammers.",
-    "how to spot it": "Always verify the URL – legitimate sites use the official domain with no typos or unusual extensions. Extremely steep discounts and urgent, act-now messages are immediate red flags.",
+    "description": "Fake sites mimicking The North Face, like northfaceblackfriday.shop, are offering bogus Black Friday deals. Entering your credit card info sends it directly to scammers.",
+    "how to spot it": "Always verify the URL – legitimate sites use the official domain with no typos or unusual extensions. Extremely steep discounts and urgent messages are red flags.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/The_North_Face_logo.svg/512px-The_North_Face_logo.svg.png"
   },
   {
     "company/agency": "Nike",
-    "description": "Trending Instagram ads are offering Nike sneakers at 80% off by redirecting users to cloned websites that closely mimic Nike’s official store. Victims who click through may end up with knock-off products and compromised payment details.",
+    "description": "Instagram ads offer Nike sneakers at 80% off via cloned sites mimicking the official store. Buyers risk receiving knock-offs and exposing their payment info.",
     "how to spot it": "Double-check the Instagram profile and website URL – official Nike promotions always link to nike.com. If the deal is dramatically below market value, it is likely a scam.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Logo_NIKE.svg/512px-Logo_NIKE.svg.png"
   },
   {
     "company/agency": "Amazon",
-    "description": "Scam emails claiming to be from Amazon are circulating, stating that recent orders are on hold due to account issues. These emails include links to spoofed login pages that harvest credentials when users sign in.",
-    "how to spot it": "Examine the sender’s email address carefully – authentic Amazon emails come exclusively from @amazon.com. If in doubt, manually type amazon.com into your browser instead of clicking on any email links.",
+    "description": "Scam emails claim Amazon orders are on hold due to account issues and link to fake login pages. These pages capture your credentials as soon as you sign in.",
+    "how to spot it": "Examine the sender’s email address – authentic Amazon emails come exclusively from @amazon.com. When in doubt, type amazon.com directly into your browser.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/512px-Amazon_logo.svg.png"
   },
   {
     "company/agency": "Walmart",
-    "description": "Multiple reports indicate that Walmart gift card giveaway scams are running on Facebook, where users are directed to fraudulent survey sites. These sites ask for personal data and a small processing fee before promising a gift card that never materializes.",
-    "how to spot it": "Legitimate Walmart promotions are verified on their official website and social media channels. If a giveaway sounds excessively generous or requires a fee, it is an instant red flag.",
+    "description": "Walmart gift card giveaways on Facebook direct users to fraudulent survey sites. They collect personal data and fees, but no gift card follows.",
+    "how to spot it": "Legitimate Walmart promotions are verified on official channels. If a giveaway sounds excessively generous or requires a fee, it is a red flag.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Walmart_logo.svg/512px-Walmart_logo.svg.png"
   },
   {
     "company/agency": "Chase",
-    "description": "Recent alerts show that Chase text alert scams are spreading, warning recipients of unusual account activity and prompting them to click a link. That link leads to a counterfeit Chase login page designed to capture credentials.",
-    "how to spot it": "Chase texts come only from verified short codes, not random 10-digit numbers. If you receive such an alert, access your account by manually entering the official website or using the Chase app.",
+    "description": "Chase text alert scams warn of unusual account activity and prompt clicks on a counterfeit login page. This page captures your credentials.",
+    "how to spot it": "Chase texts come only from verified short codes. If you receive such an alert, enter the official website manually or use the Chase app.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/JPMorgan_Chase_logo_2008.svg/512px-JPMorgan_Chase_logo_2008.svg.png"
   },
   {
     "company/agency": "Bank of America",
-    "description": "Reports indicate that scammers impersonating Bank of America’s fraud department are calling customers, claiming that their accounts are at immediate risk. They instruct victims to transfer funds to a 'safe' account that is, in fact, controlled by the scammers.",
-    "how to spot it": "Bank of America will never pressure you to move funds over the phone or provide urgent wire transfer instructions. If you receive such a request, hang up and call the official customer service number to verify.",
+    "description": "Scammers impersonate Bank of America’s fraud team, calling and claiming your account is at risk. They urge you to transfer funds to a ‘safe’ account they control.",
+    "how to spot it": "Bank of America will never pressure you to move funds over the phone. Hang up and call the official customer service number to verify.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bank_of_America_logo.svg/512px-Bank_of_America_logo.svg.png"
   },
   {
     "company/agency": "Wells Fargo",
-    "description": "Wells Fargo warning emails that claim an account is locked are making the rounds, urging recipients to click a link to restore access. The link directs users to a fake Wells Fargo portal that harvests data.",
-    "how to spot it": "Always check the sender’s email – official Wells Fargo communications come from an @wellsfargo.com address. If a link seems suspicious, log in directly through the official website instead.",
+    "description": "Fake Wells Fargo emails claim your account is locked and urge you to click to restore access. Instead, the link captures your data.",
+    "how to spot it": "Check the sender’s email – official messages come from an @wellsfargo.com address. If a link seems suspicious, log in directly through the official website.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Wells_Fargo_%282016%29_logo.svg/512px-Wells_Fargo_%282016%29_logo.svg.png"
   },
   {
     "company/agency": "PayPal",
-    "description": "Scammers are launching PayPal alert scams by sending emails that warn of a pending account limitation due to suspicious activity. The emails include links that lead to counterfeit PayPal login pages, capturing credentials as soon as users sign in.",
-    "how to spot it": "Real PayPal communications address you by name and come from secure, verified email addresses. Instead of clicking links, navigate directly to PayPal by typing the URL into your browser.",
+    "description": "PayPal alert scams warn of pending account limitations via email. The included links lead to fake login pages that capture your credentials.",
+    "how to spot it": "Real PayPal emails address you by name and come from secure addresses. Instead of clicking links, navigate directly to PayPal by typing the URL.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PayPal.svg/512px-PayPal.svg.png"
   },
   {
     "company/agency": "Microsoft",
-    "description": "Microsoft-themed pop-ups are actively disrupting computers by warning that systems are infected and urging users to call a support number immediately. The fake alerts install remote access software when the numbers are dialed, compromising devices.",
-    "how to spot it": "Legitimate Microsoft alerts originate from the operating system or official update channels and never include emergency call numbers. If a pop-up forces you to call an unknown number, close the window and run a scan using trusted antivirus software.",
+    "description": "Fake Microsoft pop-ups warn that your system is infected and urge you to call support. Calling installs remote access software that compromises your device.",
+    "how to spot it": "Legitimate Microsoft alerts come from the operating system or official update channels. If a pop-up forces you to call an unknown number, close it and run a trusted antivirus scan.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/512px-Microsoft_logo.svg.png"
   },
   {
     "company/agency": "Apple",
-    "description": "Apple support scammers are targeting iPhone users by placing calls that display 'Apple Inc' on the caller ID and claim that iCloud accounts are compromised. They instruct victims to install fake security apps or purchase Apple gift cards for account recovery.",
-    "how to spot it": "Apple will never call unsolicited or request payment in the form of gift cards. If you receive such a call, hang up immediately and contact Apple Support directly using the official number from apple.com.",
+    "description": "Apple support scammers call, claiming iCloud accounts are compromised. They urge you to install fake security apps or buy Apple gift cards for recovery.",
+    "how to spot it": "Apple will never call unsolicited or request gift card payments. Hang up immediately and call Apple Support using the official number.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png"
   },
   {
     "company/agency": "Google",
-    "description": "LinkedIn alerts are spreading in which scammers claiming to be Google recruiters send offers for immediate job placements. They conduct overly brief online interviews and request personal details to process employment paperwork.",
-    "how to spot it": "Google’s hiring process is thorough and does not use messenger apps to finalize offers. Verify recruiter identities by contacting Google directly via their official careers page before sharing any personal information.",
+    "description": "On LinkedIn, scammers posing as Google recruiters offer quick job placements. They conduct brief online interviews and request personal details.",
+    "how to spot it": "Google’s hiring process is thorough and never uses casual messages to finalize offers. Verify recruiter identities through Google’s official careers page.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/512px-Google_2015_logo.svg.png"
   },
   {
     "company/agency": "Costco",
-    "description": "Reports indicate that text scams claiming to be from Costco’s HR department are circulating regarding work-from-home customer service roles. After rapid text interviews, victims are asked to pay fees for training or shipping, with the scammers disappearing afterward.",
-    "how to spot it": "Costco never recruits via random text messages or asks for upfront fees as part of the hiring process. Always confirm job offers through official company channels listed on Costco’s website.",
+    "description": "Costco HR text scams offer work-from-home customer service roles but then demand fees for training or shipping. The scammers disappear after taking your money.",
+    "how to spot it": "Costco never recruits through random texts or asks for upfront fees. Confirm job offers through official company channels on Costco’s website.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Costco_Wholesale_logo_2010-10-26.svg/512px-Costco_Wholesale_logo_2010-10-26.svg.png"
   },
   {
     "company/agency": "Amazon",
-    "description": "Scam emails targeting job seekers claim to offer Amazon remote work positions for roles such as virtual assistant or package inspector. The senders quickly request a training fee or personal banking details for payroll setup and vanish after receiving the information or money.",
-    "how to spot it": "Legitimate job offers from Amazon are vetted through their official careers portal and never require upfront payments. If a work-from-home job asks for money or sensitive personal information early in the process, it is a scam.",
+    "description": "Scam emails targeting job seekers claim to offer Amazon remote positions, such as virtual assistant roles. They quickly ask for a training fee or banking details and then vanish.",
+    "how to spot it": "Legitimate job offers from Amazon come through their official careers portal and never require upfront payments. Be wary if a work-from-home job asks for money or sensitive personal info early on.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/512px-Amazon_logo.svg.png"
   },
   {
     "company/agency": "U.S. Army",
-    "description": "Scammers on Tinder are posing as U.S. Army officers deployed overseas and spending days building emotional connections with unsuspecting users. Once trust is established, they urgently request funds to cover fabricated emergencies such as lost wallets or urgent equipment repairs.",
-    "how to spot it": "Any request for financial assistance from a match you have never met in person is a major red flag. Real military personnel will never ask for money via a dating app.",
+    "description": "On Tinder, scammers pose as U.S. Army officers deployed overseas to build trust with users. They then request funds for fake emergencies like lost wallets or urgent repairs.",
+    "how to spot it": "Any financial request from someone you’ve never met is a red flag. Real military personnel will never ask for money via a dating app.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/United_States_Army_logo.svg/512px-United_States_Army_logo.svg.png"
   },
   {
     "company/agency": "Facebook Dating",
-    "description": "Reports from Facebook Dating confirm that scammers pretending to be widowed engineers working on oil rigs overseas are targeting users. They build rapport over several days before claiming that an unexpected crisis has left them stranded and in dire need of cash.",
-    "how to spot it": "If your online match consistently avoids video calls and then suddenly requests money, consider it a warning sign. Verify any personal claims by requesting a live conversation before offering financial help.",
+    "description": "Scammers on Facebook Dating pose as widowed engineers on oil rigs to build trust with users. They later claim a crisis has stranded them and ask for cash.",
+    "how to spot it": "If your online match avoids video calls and then asks for money, it's a red flag. Verify personal claims by requesting a live conversation before offering financial help.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/512px-Facebook_f_logo_%282019%29.svg.png"
   },
   {
     "company/agency": "Coinbase",
-    "description": "Scammers on dating apps are claiming to be successful crypto investors using Coinbase to build fortunes and are inviting victims to invest immediately. They display fake app dashboards with rising balances, only for withdrawals to become impossible once more funds are added.",
-    "how to spot it": "High-pressure investment pitches from new online acquaintances are a hallmark of these scams. Always perform independent research and do not let a budding romance override sound investment practices.",
+    "description": "On dating apps, scammers claim crypto success via Coinbase and push victims to invest immediately. They use fake dashboards showing rising balances to lure you in.",
+    "how to spot it": "High-pressure investment pitches from new online acquaintances are a red flag. Always perform independent research and never let a budding romance override sound practices.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Coinbase_Logo.svg/512px-Coinbase_Logo.svg.png"
   },
   {
     "company/agency": "USPS",
-    "description": "USPS text scams are circulating that notify recipients of pending delivery delays due to a small unpaid fee. The texts include links leading to bogus USPS sites that harvest credit card information from multiple users.",
-    "how to spot it": "The U.S. Postal Service does not send texts requesting payments or immediate action. Use official USPS tracking tools or contact your local post office to verify any delivery issues.",
+    "description": "USPS text scams claim delivery delays over small unpaid fees and provide links to bogus sites. These sites steal credit card information from multiple users.",
+    "how to spot it": "The U.S. Postal Service does not send texts requesting immediate payments. Use official USPS tracking tools or contact your local post office to verify any issues.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/USPS_Logo.svg/512px-USPS_Logo.svg.png"
   },
   {
     "company/agency": "FedEx",
-    "description": "FedEx scam emails are circulating in which customers receive messages about missed deliveries and are urged to update their addresses by clicking a link. Those links lead to fake FedEx websites designed to steal personal and financial details.",
-    "how to spot it": "Inspect the sender’s email – genuine FedEx communications come from an official fedex.com address only. If an email urges you to click a link immediately, log in to FedEx using a browser instead to verify the delivery status.",
+    "description": "FedEx scam emails warn of missed deliveries and urge you to update your address via a link. The link leads to a fake site that steals your personal and financial details.",
+    "how to spot it": "Inspect the sender’s email – genuine FedEx communications come from an official fedex.com address only. If an email urges immediate action, log in to FedEx using a browser to verify.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/FedEx_Express.svg/512px-FedEx_Express.svg.png"
   },
   {
     "company/agency": "IRS",
-    "description": "IRS scam calls and emails are circulating in which fraudsters impersonate IRS agents to claim that taxpayers owe back taxes or that refunds will be withheld if immediate payment is not made. They pressure victims to pay via prepaid gift cards or wire transfers, harvesting sensitive financial information.",
-    "how to spot it": "Legitimate IRS communications are sent by mail and never ask for immediate payment through electronic means or gift cards. If you receive such messages, verify by contacting the IRS directly or checking their official website.",
+    "description": "IRS scam calls and emails falsely claim you owe back taxes or that your refund is withheld unless you pay immediately. They pressure you to use prepaid gift cards or wire transfers and steal your sensitive info.",
+    "how to spot it": "Legitimate IRS communications are sent by mail and never ask for immediate payment through electronic means. Verify by contacting the IRS directly or checking their official website.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/IRS_logo.svg/512px-IRS_logo.svg.png"
   },
   {
     "company/agency": "Xfinity",
-    "description": "Xfinity scam alerts are circulating, with customers receiving emails claiming that their internet service will be disconnected immediately due to a failed payment. The emails direct users to counterfeit Xfinity login pages where any credentials or billing information entered are captured by scammers.",
-    "how to spot it": "Official Xfinity emails come from verified addresses and never pressure you for instant action via a suspicious link. If in doubt, log into your account directly at xfinity.com or call customer service to check for issues.",
+    "description": "Xfinity scam emails warn that a failed payment will disconnect your service and direct you to a fake login page. These pages capture your credentials and billing info.",
+    "how to spot it": "Official Xfinity emails come from verified addresses and won’t pressure you for immediate action. If in doubt, log into your account directly or call customer service.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Xfinity_logo.svg/512px-Xfinity_logo.svg.png"
   }
 ]
