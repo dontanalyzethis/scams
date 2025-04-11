@@ -1,26 +1,26 @@
 [
   {
     "category": "romance",
-    "description": "She thought she met the love of her life on a dating app — he said he was stationed overseas and messaged her every day for months. When he said he needed help covering a sudden medical emergency, she wired the money… and never heard from him again.",
-    "how to spot it": "If someone you’ve never met keeps avoiding video calls or in-person visits, it’s a red flag. A real partner won’t ask you to send money to a stranger across the world.",
+    "description": "Scammers are actively using Facebook Dating to impersonate U.S. Army Captains deployed overseas, claiming to be stuck in Syria or Kuwait. They spend weeks chatting, then claim they need help paying for emergency leave or a courier to send personal belongings.",
+    "how to spot it": "If someone says they’re in the military and asks for money through Western Union or gift cards, it’s a scam. Real service members don’t pay to take leave or ship personal items.",
     "image": "https://cdn-icons-png.flaticon.com/512/1077/1077035.png"
   },
   {
     "category": "phishing",
-    "description": "One woman got an urgent email that her bank account was locked — it looked exactly like the real thing. She clicked the link, logged in, and the next morning found her account drained.",
-    "how to spot it": "If you get a scary email or text, don’t click anything — open the app or go straight to the official site instead. Scammers often copy logos and names, but the web address or email is slightly off.",
+    "description": "Scammers are sending fake emails and texts pretending to be from Amazon, saying there’s a problem with a recent order. The message links to a fake login page that looks real but is designed to steal your credentials.",
+    "how to spot it": "Real Amazon emails come from addresses ending in @amazon.com — watch for slight variations like @amzon-support.com. If in doubt, go to Amazon directly instead of clicking any link.",
     "image": "https://cdn-icons-png.flaticon.com/512/634/634013.png"
   },
   {
     "category": "job",
-    "description": "He was thrilled to land a remote job without an interview — they even ‘hired’ him the same day. But after sending $150 for a ‘background check,’ the company vanished and stopped replying.",
-    "how to spot it": "If a job offer comes too easily and asks you to send money, hit pause. Real employers won’t ask you to pay out of pocket just to get started.",
+    "description": "Scammers are impersonating Costco’s HR department, texting people about remote customer service jobs and asking them to move conversations to Telegram. After sending fake offer letters, they request payment for training software or equipment shipping.",
+    "how to spot it": "Costco does not hire or communicate job offers through Telegram or ask applicants to pay for anything. Always apply through the official Costco Careers page.",
     "image": "https://cdn-icons-png.flaticon.com/512/3063/3063826.png"
   },
   {
     "category": "shopping",
-    "description": "She found a site selling designer shoes for half the price and placed an order — but weeks later, a cheap plastic keychain showed up instead. The website and customer support disappeared overnight.",
-    "how to spot it": "If the price looks too good to be true, it probably is. Before buying, search for reviews and see how long the website’s been around.",
+    "description": "Fake ads on Facebook are promoting discounted Dyson Airwraps and Shark vacuums, linking to scam websites that mimic real retailers. Many victims report receiving knockoff items or nothing at all after payment.",
+    "how to spot it": "Check the website URL carefully — scammers often use domains like dyson-clearance.shop or sharkdeals.store. If it’s not the official Dyson or Shark website, don’t enter your credit card info.",
     "image": "https://cdn-icons-png.flaticon.com/512/1170/1170576.png"
   }
 ]
