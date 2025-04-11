@@ -1,26 +1,26 @@
 [
   {
     "category": "romance",
-    "description": "A scammer builds a fake romantic relationship over weeks or months through dating apps or social media, claiming to be overseas for work or military service. Eventually, they create a fabricated emergency — like a medical bill or travel cost — and ask the victim to wire money or send gift cards. The scammer often vanishes after receiving the money, leaving the victim emotionally and financially devastated.",
-    "how to spot it": "Be cautious if someone you’ve never met in person professes love quickly. Watch for stories that prevent in-person meetings and requests for money. Reverse image search their profile pictures to check for duplicates.",
+    "description": "She thought she met the love of her life on a dating app — he said he was stationed overseas and messaged her every day for months. When he said he needed help covering a sudden medical emergency, she wired the money… and never heard from him again.",
+    "how to spot it": "If someone you’ve never met keeps avoiding video calls or in-person visits, it’s a red flag. A real partner won’t ask you to send money to a stranger across the world.",
     "image": "https://cdn-icons-png.flaticon.com/512/1077/1077035.png"
   },
   {
     "category": "phishing",
-    "description": "A spoofed email or text appears to be from a trusted source — like a bank, Amazon, or the IRS — warning of suspicious account activity or missed payments. The message contains a link to a fake website that captures your login credentials or personal information. Some variants include malicious attachments that install spyware or ransomware.",
-    "how to spot it": "Avoid clicking links in unexpected emails or texts. Check for slight misspellings in sender addresses and website URLs. Log in to your account through the official app or site instead of any provided links.",
+    "description": "One woman got an urgent email that her bank account was locked — it looked exactly like the real thing. She clicked the link, logged in, and the next morning found her account drained.",
+    "how to spot it": "If you get a scary email or text, don’t click anything — open the app or go straight to the official site instead. Scammers often copy logos and names, but the web address or email is slightly off.",
     "image": "https://cdn-icons-png.flaticon.com/512/634/634013.png"
   },
   {
     "category": "job",
-    "description": "Victims are offered remote jobs with high pay and flexible hours, often with no interview. After a fake onboarding, they're asked to purchase equipment or pay for background checks using their own money, with a promise of reimbursement. The scammer disappears once the payment is made.",
-    "how to spot it": "Watch for job offers that skip standard hiring procedures. Be skeptical of any position requiring you to front costs. Research the company thoroughly and verify job postings through official sources.",
+    "description": "He was thrilled to land a remote job without an interview — they even ‘hired’ him the same day. But after sending $150 for a ‘background check,’ the company vanished and stopped replying.",
+    "how to spot it": "If a job offer comes too easily and asks you to send money, hit pause. Real employers won’t ask you to pay out of pocket just to get started.",
     "image": "https://cdn-icons-png.flaticon.com/512/3063/3063826.png"
   },
   {
     "category": "shopping",
-    "description": "Scammers create fake e-commerce sites offering trendy or hard-to-find products at deep discounts. The sites may clone real brands, complete with logos and fake reviews, but orders are never fulfilled. Some victims report receiving unrelated junk items instead of what they ordered.",
-    "how to spot it": "Compare prices — if it’s far below market value, be suspicious. Check if the site lacks real contact info or has broken pages. Look up reviews and domain history before buying.",
+    "description": "She found a site selling designer shoes for half the price and placed an order — but weeks later, a cheap plastic keychain showed up instead. The website and customer support disappeared overnight.",
+    "how to spot it": "If the price looks too good to be true, it probably is. Before buying, search for reviews and see how long the website’s been around.",
     "image": "https://cdn-icons-png.flaticon.com/512/1170/1170576.png"
   }
 ]
